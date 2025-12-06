@@ -1,4 +1,4 @@
-name: TeamWin [TWRP] Patch
+name: TeamWin [TWRP] Patch Private X
 
 on:
   workflow_dispatch:
